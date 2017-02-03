@@ -1,0 +1,6 @@
+github "natestedman/ArrayLoaderInterface" "feature/swift3"
+github "natestedman/PINCache"
+github "natestedman/PrettyOkayKit" "feature/swift3"
+github "natestedman/Tuplex" "master"
+github "PureLayout/PureLayout"
+github "ReactiveCocoa/ReactiveCocoa" ~> 5.0
